@@ -13,6 +13,7 @@ public class Main {
         System.out.println("Enter second number :");
         n2=sc.nextInt();
         int result=0;
+
          switch (operator) {
 
              case 1:
